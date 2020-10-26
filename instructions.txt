@@ -6,5 +6,3 @@ watermelon sugar I ponder of something terrifying cause this time there's no sou
 Installation on IIS
 ------------------
 Content goes here
------------------
-Changing this to test the Pull Request template
